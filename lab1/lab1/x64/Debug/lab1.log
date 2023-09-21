@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(702,5): error : Элемент <AssemblerOutput> имеет недопустимое значение "/FAcs".
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(702,5): error MSB6011: в задачу Microsoft.Build.CPPTasks.CL переданы недопустимые параметры.
