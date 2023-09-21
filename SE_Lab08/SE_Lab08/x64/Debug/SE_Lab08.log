@@ -1,4 +1,0 @@
-﻿  SE_Lab08.cpp
-C:\Users\User\Desktop\ун\кпо\SE_Lab08\SE_Lab08\SE_Lab08.cpp(9,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-C:\Users\User\Desktop\ун\кпо\SE_Lab08\SE_Lab08\SE_Lab08.cpp(10,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-  SE_Lab08.vcxproj -> C:\Users\User\Desktop\ун\кпо\SE_Lab08\x64\Debug\SE_Lab08.exe
