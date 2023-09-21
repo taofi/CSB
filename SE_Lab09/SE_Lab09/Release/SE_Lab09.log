@@ -1,9 +1,0 @@
-﻿  varparm.cpp
-C:\Users\User\Desktop\ун\кпо\SE_Lab09\SE_Lab09\varparm.cpp(37,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\User\Desktop\ун\кпо\SE_Lab09\SE_Lab09\varparm.cpp(44,12): warning C4244: return: преобразование "double" в "float", возможна потеря данных
-  Создание кода
-  2 of 15 functions (13.3%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Создание кода завершено
-  SE_Lab09.vcxproj -> C:\Users\User\Desktop\ун\кпо\SE_Lab09\Release\SE_Lab09.exe
