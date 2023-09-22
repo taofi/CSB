@@ -1,0 +1,4 @@
+﻿  SE_Lab10.cpp
+C:\Users\User\Desktop\ун\кпо\SE_Lab10\SE_Lab10\SE_Lab10.cpp(13,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\User\Desktop\ун\кпо\SE_Lab10\SE_Lab10\SE_Lab10.cpp(15,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  SE_Lab10.vcxproj -> C:\Users\User\Desktop\ун\кпо\SE_Lab10\x64\Debug\SE_Lab10.exe
